@@ -19,7 +19,6 @@ function preload() {
   earthjpg = loadImage('earthcloud-1.jpg');
   moonjpg = loadImage('moonmap1k.jpg');
   sunjpg = loadImage('sun-1.jpg');
-  starsjpg = loadImage('stars.jpg');
 }
 
 function setup() {
