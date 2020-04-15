@@ -1,2 +1,2 @@
 # tide-control
-You control teh rotation of the earth-moon in webgl via posenet
+You control the rotation of the earth-moon in webgl via posenet
