@@ -22,7 +22,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(640, 480, WEBGL);
+  createCanvas(1280, 770, WEBGL);
 
   //console.log(ml5);
 
