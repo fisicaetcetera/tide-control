@@ -78,7 +78,7 @@ function draw() {
   texture(earthjpg);
   //rotateY(frameCount / 3280);
   rotateY(frameCount/(Math.floor(rwristYav)));
-  sphere(80 );
+  sphere(160 );
 
   rotateY(-frameCount / 1450);
   translate(0, 0, -200);
